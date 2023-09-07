@@ -1,5 +1,5 @@
-﻿int a = 5;
-int b = 7;
+﻿int a = -9;
+int b = -3;
 if (a > b)
 {
 Console.WriteLine(a);
